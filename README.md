@@ -10,20 +10,22 @@
 
 ### 📸 Vistas de la Aplicación
 | Pantalla de Acceso |
-| ![Login](login.png) | 
+![Login](login.png)  
 
 |Panel de Lecciones | 
-| ![Dashboard](dashboard.png) | 
+![Dashboard](dashboard.png)
 
 | Quiz | 
-| ![Quiz](quiz.png) | 
+![Quiz](quiz.png)
 
 |Ventana Emergente | 
-| ![Ventana Emergente](ventanaEmergente.png) | 
-| Tutor IA | 
+![Ventana Emergente](ventanaEmergente.png)
 
-| ![Tutor IA](tutor.png) | 
-| Archivo | | ![Archivo](archivo.png) |
+| Tutor IA | 
+![Tutor IA](tutor.png)
+
+| Archivo | 
+![Archivo](archivo.png)
 
 ---
 
