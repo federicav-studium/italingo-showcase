@@ -9,12 +9,21 @@
 ## 📺 Demostración en Capturas
 
 ### 📸 Vistas de la Aplicación
-| Pantalla de Acceso | Panel de Lecciones |
-| Quiz | Ventana Emergente | 
-| Tutor IA | | Archivo |
-| ![Login](login.png) | ![Dashboard](dashboard.png) | 
-| ![Quiz](quiz.png) | ![Ventana Emergente](ventanaEmergente.png) | 
-| ![Tutor IA](tutor.png) | | ![Archivo](archivo.png) |
+| Pantalla de Acceso |
+| ![Login](login.png) | 
+
+|Panel de Lecciones | 
+| ![Dashboard](dashboard.png) | 
+
+| Quiz | 
+| ![Quiz](quiz.png) | 
+
+|Ventana Emergente | 
+| ![Ventana Emergente](ventanaEmergente.png) | 
+| Tutor IA | 
+
+| ![Tutor IA](tutor.png) | 
+| Archivo | | ![Archivo](archivo.png) |
 
 ---
 
